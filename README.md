@@ -1,4 +1,4 @@
-# Projeto de backend com Express (Nodejs) e postgresql
+# Projeto de backend com Express (Nodejs), prisma e postgresql
 
 Esta é uma solução para Api movieflix
 
